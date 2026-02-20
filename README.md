@@ -1,16 +1,14 @@
-## Hi there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello there!
+I'm currently studying Machine Learning(ML) and more.
 
-<!--
-**Riviere442/Riviere442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Used professionally** - Daily tools for ML, data analysis, and simulation
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-deepskyblue.svg?logo=Python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experienced with** – Tools for web and desktop application development and more
+
+![Node.js](https://img.shields.io/badge/Node.js-green.svg?logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-deepskyblue.svg?logo=React&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-lightseagreen.svg?logo=TailwindCSS&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=white)
